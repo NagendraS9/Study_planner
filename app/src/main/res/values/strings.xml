@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Study Planner</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="header_title">Study Planner</string>
+    <string name="header_subtitle">Android app</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
